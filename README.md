@@ -1,6 +1,18 @@
 # Car Damage Detection
 
-## Images result
+## Dataset 
+Used 6000 images of damaged cars. Overview -  
+
+![image](https://user-images.githubusercontent.com/67424390/180349745-6fc914a5-6219-49bd-8fb6-bb5f92baa6d9.png)
+
+## Dataset Anotation
+
+Used [labelImg](https://github.com/heartexlabs/labelImg)
+
+![image](https://user-images.githubusercontent.com/67424390/180350367-126b3f54-043e-4316-818b-c5bbdec39de9.png)
+
+
+## Inference
 
 
 ## Plots
