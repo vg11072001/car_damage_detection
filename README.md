@@ -12,7 +12,7 @@ Used 6000 images of damaged cars. Overview -
 2. Scratch 
 3. Dent
 
-* Used [labelImg](https://github.com/heartexlabs/labelImg)
+* Used [labelImg](https://github.com/heartexlabs/labelImg) to Annotate
 
 ![image](https://user-images.githubusercontent.com/67424390/180350367-126b3f54-043e-4316-818b-c5bbdec39de9.png)
 
