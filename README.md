@@ -7,7 +7,9 @@ Used 6000 images of damaged cars. Overview -
 
 ## Dataset Anotation
 
-Used [labelImg](https://github.com/heartexlabs/labelImg)
+* Dataset divided into 3 categories:
+** Replacement
+* Used [labelImg](https://github.com/heartexlabs/labelImg)
 
 ![image](https://user-images.githubusercontent.com/67424390/180350367-126b3f54-043e-4316-818b-c5bbdec39de9.png)
 
