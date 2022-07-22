@@ -7,9 +7,10 @@ Used 6000 images of damaged cars. Overview -
 
 ## Dataset Anotation
 
-* Dataset divided into 3 categories:
-** Replacement
-** Scratch 
+* Dataset divided into 3 categories: 
+1. Replacement 
+2. Scratch 
+3. Dent
 
 * Used [labelImg](https://github.com/heartexlabs/labelImg)
 
