@@ -6,7 +6,8 @@ Used 6000 images of damaged cars. Overview -
 ![image](https://user-images.githubusercontent.com/67424390/180349745-6fc914a5-6219-49bd-8fb6-bb5f92baa6d9.png)
 
 ## Detection and Segmenation
-- Its performed using `yoloV5` and segmenation using google's `segment-anything`, if its yes then we proceeds for next step! 
+- segmenat was performed using google's `segment-anything`, if its yes then we proceeds for next step! 
+
 ![image](https://github.com/user-attachments/assets/b02c0fe0-879b-4989-a5ec-5c64a810d10b)
 
 ## Dataset Anotation
